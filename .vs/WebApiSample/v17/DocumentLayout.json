@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|c:\\users\\arda-pc\\documents\\vstudio\\webapisample\\webapisample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|solutionrelative:webapisample\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|c:\\users\\arda-pc\\documents\\vstudio\\webapisample\\webapisample\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|solutionrelative:webapisample\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|c:\\users\\arda-pc\\documents\\vstudio\\webapisample\\webapisample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|solutionrelative:webapisample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|c:\\users\\arda-pc\\documents\\vstudio\\webapisample\\webapisample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B7E372B-F167-4B02-866B-C7A0153814C8}|WebApiSample\\WebApiSample.csproj|solutionrelative:webapisample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiSample\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiSample\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T08:18:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WebApiSample\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WebApiSample\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:14:34.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiSample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\appsettings.json",
+              "RelativeToolTip": "WebApiSample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T13:10:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiSample\\Program.cs",
+              "ToolTip": "C:\\Users\\Arda-PC\\Documents\\VStudio\\WebApiSample\\WebApiSample\\Program.cs",
+              "RelativeToolTip": "WebApiSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:10:32.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
